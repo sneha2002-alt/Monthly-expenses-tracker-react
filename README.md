@@ -11,7 +11,7 @@ Welcome to the Monthly Expenses Tracker! This React project helps you keep tabs 
 
 To get started with the Monthly Expenses Tracker, follow these simple steps:
 
-1. Clone the repository: `git clone https://github.com/sneha2002-alt/react.git`
+1. Clone the repository: `git clone https://github.com/sneha2002-alt/Monthly-expenses-tracker-react.git`
 2. Navigate to the project directory: `cd monthly-expenses-tracker`
 3. Install dependencies: `npm install`
 4. Start the development server: `npm start`
