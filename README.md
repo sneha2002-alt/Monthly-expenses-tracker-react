@@ -1,3 +1,4 @@
+## Monthly Expenses Tracker
 Welcome to the Monthly Expenses Tracker! This React project helps you keep tabs on your monthly spending, whether it's on essentials like toilet paper and car insurance or splurges like a new TV or table.
 
 ## Features
